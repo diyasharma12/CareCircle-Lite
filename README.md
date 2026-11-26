@@ -137,3 +137,4 @@ tools were used.
   on startup. Fine for this exercise, not what I'd ship to production.
 - "Today" is a UTC calendar day server-side, not the caregiver's local day — fine for
   one timezone-local family, worth revisiting for a distributed one.
+# CareCircle-Lite
